@@ -13,6 +13,12 @@
           "img": "/img/uploads/20220930_043135_0000.png",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/20220930_043135_0000.png"
+        },
+        {
+          "start": "2022-09-30T08:19:40.745Z",
+          "end": "2022-12-31T08:19:42.387Z",
+          "img": "/img/uploads/20220930_051410_0000.png",
+          "mobile_img": "/img/uploads/20220930_051410_0000.png"
         }
       ]
     },

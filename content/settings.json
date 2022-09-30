@@ -7,19 +7,19 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/png_20220930_012818_0000.png",
+  "logo": "/img/uploads/20220930_024904_0000.png",
   "name": "NOVOS DESTINOS ",
-  "short_name": "agencianovosdestinos",
+  "short_name": "agencianovosdestinos.com.br ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/20220930_024904_0000.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/20220930_024904_0000.png",
   "store_id": 22976,
   "description": "agencianovosdestinos",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/20220930_024904_0000.png"
 }

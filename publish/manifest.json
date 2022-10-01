@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6e92f5528946e31a8ae0426f979230cc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3d14458b1ca932772ca4fe8203b9ea91.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8a50cb6a8644c9cef470f8731b92f087.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3586d7c71ab05822f2bca3a41ff450e3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.00734ca7815736fca591691ebb360191.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "NOVOS DESTINOS Passeios e Viagens",
+  "short_name": "agencianovosdestinos.com.br ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "agencianovosdestinos.com.br ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
